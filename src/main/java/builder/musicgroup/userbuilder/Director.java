@@ -6,4 +6,9 @@ public class Director {
     public Director(BaseBuilder builder) {
         this.builder = builder;
     }
+
+    public void build(String type){
+        builder.buildLogin();
+        builder.buildPassword();
+    }
 }

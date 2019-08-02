@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/GroupType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/BaseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/SaxBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/StaxBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/DoubleCheckLockingSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/references" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/singleton/SingletonTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,8 +90,12 @@
       <file leaf-file-name="Director.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/Director.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -394,7 +386,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564689784536</updated>
-      <workItem from="1564689787640" duration="4825000" />
+      <workItem from="1564689787640" duration="5116000" />
     </task>
     <servers />
   </component>
@@ -407,7 +399,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4825000" />
+    <option name="totallyTimeSpent" value="5116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -434,9 +426,9 @@
       <window_info anchor="right" id="JOL" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32948717" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32948717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
       <window_info anchor="bottom" id="Run with VisualVM" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="right" id="Theme Preview" />
@@ -574,8 +566,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/builder/musicgroup/userbuilder/Director.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
