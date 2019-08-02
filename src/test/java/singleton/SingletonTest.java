@@ -17,5 +17,6 @@ public class SingletonTest {
 
     @org.junit.Test
     public void printText() {
+
     }
 }
