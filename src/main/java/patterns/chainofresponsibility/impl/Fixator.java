@@ -20,8 +20,18 @@ public class Fixator implements Fixable, Handler {
     }
 
     @Override
-    public boolean handleRequest(Handler handler) {
-        taker.takeProcent();
+    public boolean handleRequest(Handler handler, Payment payment) {
+        boolean flag  = payment == null ? fixModern(payment) : false;
+        if(flag){
+            handler.handleRequest(this.taker, payment);
+            return true;
+        }
         return false;
+
+    }
+
+    private boolean fixModern(Payment payment) {
+        fix(payment);
+        return true;
     }
 }
