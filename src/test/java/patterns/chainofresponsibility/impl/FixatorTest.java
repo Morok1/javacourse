@@ -40,9 +40,10 @@ public class FixatorTest {
         doNothing().when(database).fix(any(Payment.class));
 
         //act
-        fixator.fix();
-        //test
+        fixator.fix(payment);
 
+        //test
+        Mockito.verify(database).fix(payment≠);
     }
 
     @Test
