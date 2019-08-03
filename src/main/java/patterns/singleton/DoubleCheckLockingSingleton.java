@@ -1,4 +1,4 @@
-package singleton;
+package patterns.singleton;
 
 public class DoubleCheckLockingSingleton {
     private volatile DoubleCheckLockingSingleton singleton = null;

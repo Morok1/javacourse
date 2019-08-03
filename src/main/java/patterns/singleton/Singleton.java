@@ -1,4 +1,4 @@
-package singleton;
+package patterns.singleton;
 
 public class Singleton {
     private Singleton() {
@@ -14,6 +14,6 @@ public class Singleton {
     }
 
     public void printText() {
-        System.out.println("Hello im singleton!");
+        System.out.println("Hello im patterns.create.singleton!");
     }
 }

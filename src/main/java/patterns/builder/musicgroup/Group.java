@@ -1,4 +1,4 @@
-package builder.musicgroup;
+package patterns.builder.musicgroup;
 
 public class Group {
     private String name;

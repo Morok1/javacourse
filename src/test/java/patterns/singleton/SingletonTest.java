@@ -1,4 +1,4 @@
-package singleton;
+package patterns.singleton;
 
 
 import org.junit.Before;

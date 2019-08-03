@@ -1,4 +1,4 @@
-package builder.musicgroup.userbuilder;
+package patterns.builder.musicgroup.userbuilder;
 
 public class SaxBuilder implements BaseBuilder {
     @Override

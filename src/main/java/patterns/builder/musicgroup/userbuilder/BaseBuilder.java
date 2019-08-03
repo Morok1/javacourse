@@ -1,4 +1,4 @@
-package builder.musicgroup.userbuilder;
+package patterns.builder.musicgroup.userbuilder;
 
 public interface BaseBuilder {
     void buildLogin();
