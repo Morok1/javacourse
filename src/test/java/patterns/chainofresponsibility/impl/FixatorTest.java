@@ -7,6 +7,7 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 import org.mockito.runners.MockitoJUnitRunner;
+import patterns.chainofresponsibility.api.Handler;
 import patterns.chainofresponsibility.database.Database;
 import patterns.chainofresponsibility.model.Payment;
 
@@ -20,6 +21,10 @@ public class FixatorTest {
     private Payment payment;
 
     private Fixator fixator;
+
+    @Mock
+    private Handler handler;
+
 
     @Mock
     private Taker taker;
@@ -43,10 +48,20 @@ public class FixatorTest {
         fixator.fix(payment);
 
         //test
-        Mockito.verify(database).fix(payment≠);
+        Mockito.verify(database).fix(payment);
     }
 
     @Test
     public void handleRequest() {
+        //prepare
+        Mockito.when(payment.getSize()).thenReturn(2);
+        Mockito.when(handler.handleRequest(any(), any())).thenReturn(Boolean.TRUE);
+        Mockito.when(taker.handleRequest(any(), any())).thenReturn(trueg);
+
+        //act
+        fixator.handleRequest(handler, payment);
+
+        //test
+        Mockito.verify(taker).handleRequest(any(), any());
     }
 }

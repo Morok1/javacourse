@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Fixator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Fixator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,8 +50,8 @@
       <file leaf-file-name="FixatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="168">
+              <caret line="58" column="71" selection-start-line="58" selection-start-column="71" selection-end-line="58" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +71,8 @@
       <file leaf-file-name="Handler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -84,10 +80,14 @@
       <file leaf-file-name="Taker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="231">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -193,10 +193,10 @@
         <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Takeable.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Fixator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/database/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java" />
         <option value="$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java" />
       </list>
     </option>
@@ -342,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FixatorTest.fix">
+  <component name="RunManager" selected="JUnit.FixatorTest.handleRequest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -382,6 +382,29 @@
       <option name="PACKAGE_NAME" value="patterns.chainofresponsibility.impl" />
       <option name="MAIN_CLASS_NAME" value="patterns.chainofresponsibility.impl.FixatorTest" />
       <option name="METHOD_NAME" value="fix" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FixatorTest.handleRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javacourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.chainofresponsibility.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="patterns.chainofresponsibility.impl" />
+      <option name="MAIN_CLASS_NAME" value="patterns.chainofresponsibility.impl.FixatorTest" />
+      <option name="METHOD_NAME" value="handleRequest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -457,11 +480,13 @@
       <item itemvalue="JUnit.SingletonTest.getSingleton" />
       <item itemvalue="JUnit.FixatorTest" />
       <item itemvalue="JUnit.FixatorTest.fix" />
+      <item itemvalue="JUnit.FixatorTest.handleRequest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FixatorTest.fix" />
+        <item itemvalue="JUnit.FixatorTest.handleRequest" />
         <item itemvalue="JUnit.FixatorTest" />
+        <item itemvalue="JUnit.FixatorTest.fix" />
         <item itemvalue="JUnit.SingletonTest.getSingleton" />
       </list>
     </recent_temporary>
@@ -477,7 +502,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564689784536</updated>
       <workItem from="1564689787640" duration="14160000" />
-      <workItem from="1564824907460" duration="3926000" />
+      <workItem from="1564824907460" duration="6485000" />
     </task>
     <servers />
   </component>
@@ -491,12 +516,31 @@
     <history-entry file="FixatorTest - 2019.08.03 at 14h 10m 40s.xml">
       <configuration name="FixatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FixatorTest_fix - 2019.08.03 at 14h 36m 54s.xml">
+      <configuration name="FixatorTest.fix" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixatorTest - 2019.08.03 at 15h 28m 30s.xml">
+      <configuration name="FixatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixatorTest - 2019.08.03 at 15h 29m 09s.xml">
+      <configuration name="FixatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixatorTest - 2019.08.04 at 10h 11m 36s.xml">
+      <configuration name="FixatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixatorTest_handleRequest - 2019.08.04 at 10h 13m 11s.xml">
+      <configuration name="FixatorTest.handleRequest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixatorTest_handleRequest - 2019.08.04 at 10h 13m 32s.xml">
+      <configuration name="FixatorTest.handleRequest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18086000" />
+    <option name="totallyTimeSpent" value="20645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -513,15 +557,15 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32948717" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="JOL" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43076923" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32948717" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.016666668" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17596567" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -616,6 +660,10 @@
           <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -865,13 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Takeable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -917,16 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Fixator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -937,10 +968,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="168">
+          <caret line="58" column="71" selection-start-line="58" selection-start-column="71" selection-end-line="58" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -975,7 +1027,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1024,7 +1076,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited />
+          <last-edited>10 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1036,7 +1088,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: junit:junit:4.13-beta-2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
