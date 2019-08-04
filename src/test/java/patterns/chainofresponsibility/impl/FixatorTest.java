@@ -56,7 +56,7 @@ public class FixatorTest {
         //prepare
         Mockito.when(payment.getSize()).thenReturn(2);
         Mockito.when(handler.handleRequest(any(), any())).thenReturn(Boolean.TRUE);
-        Mockito.when(taker.handleRequest(any(), any())).thenReturn(trueg);
+        Mockito.when(taker.handleRequest(any(), any())).thenReturn(true);
 
         //act
         fixator.handleRequest(handler, payment);
