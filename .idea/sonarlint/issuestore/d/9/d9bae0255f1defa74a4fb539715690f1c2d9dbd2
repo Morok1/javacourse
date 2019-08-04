@@ -1,0 +1,4 @@
+
+Gsquid:S1172"+Remove this unused method parameter "name".(¶ËÔ¦8ş»‰Å-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àê°üÿÿÿÿ8şÆ´‰Å-
+~squid:S4165"bRemove this useless assignment; "size" already holds the assigned value along all execution paths.(°şˆ8ş»‰Å-
