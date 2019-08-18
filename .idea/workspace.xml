@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/exercises/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/exercises/Task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,17 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Currency.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/generics_and_collections_code/generics/converter/com/converter/Currency.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CFrame.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/generics_and_collections_code/generics/converter/g/CFrame.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,13 +98,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="69">
+              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/abstractfabric/impl/DatabaseDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractfabric/model/XmlFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractfabric/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractfabric/model/DaoFactory.java" />
@@ -208,6 +209,7 @@
         <option value="$PROJECT_DIR$/generics/src/main/java/exercises/Task1.java" />
         <option value="$PROJECT_DIR$/generics/src/main/java/exercises/Task2.java" />
         <option value="$PROJECT_DIR$/generics/src/main/java/exercises/Task3.java" />
+        <option value="$PROJECT_DIR$/generics/src/main/java/exercises/Task5.java" />
       </list>
     </option>
   </component>
@@ -245,9 +247,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="453" />
+    <option name="y" value="305" />
     <option name="width" value="1440" />
-    <option name="height" value="447" />
+    <option name="height" value="616" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -288,6 +290,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
@@ -543,7 +554,7 @@
       <updated>1564689784536</updated>
       <workItem from="1564689787640" duration="14160000" />
       <workItem from="1564824907460" duration="12875000" />
-      <workItem from="1566118232866" duration="3351000" />
+      <workItem from="1566118232866" duration="4561000" />
     </task>
     <servers />
   </component>
@@ -580,11 +591,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30386000" />
+    <option name="totallyTimeSpent" value="31596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="464" width="1440" height="436" extended-state="0" />
-    <editor active="true" />
+    <frame x="12" y="221" width="1440" height="616" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -607,7 +617,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27138644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5067437" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -630,19 +640,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
-          <folding>
-            <element signature="e#2998#2999#0" expanded="true" />
-            <element signature="e#3042#3043#0" expanded="true" />
-            <element signature="e#8628#8629#0" expanded="true" />
-            <element signature="e#8680#8681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Fixable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -985,10 +982,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="69">
+          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
           </folding>
         </state>
       </provider>
