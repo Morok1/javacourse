@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/exercises/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/exercises/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,11 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Converter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/generics_and_collections_code/generics/converter/com/converter/Converter.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="Converter.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/generics_and_collections_code/generics/converter/com/converter/Converter.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +92,30 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="Task1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+              <folding>
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/abstractfabric/api/DAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractfabric/impl/XmlDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractfabric/impl/DatabaseDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractfabric/model/XmlFile.java" />
@@ -197,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/command/Command.java" />
         <option value="$PROJECT_DIR$/generics/src/main/java/exercies.java" />
         <option value="$PROJECT_DIR$/generics/src/main/java/exercises/Task1.java" />
+        <option value="$PROJECT_DIR$/generics/src/main/java/exercises/Task2.java" />
       </list>
     </option>
   </component>
@@ -277,6 +287,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
@@ -532,7 +551,7 @@
       <updated>1564689784536</updated>
       <workItem from="1564689787640" duration="14160000" />
       <workItem from="1564824907460" duration="12875000" />
-      <workItem from="1566118232866" duration="750000" />
+      <workItem from="1566118232866" duration="2159000" />
     </task>
     <servers />
   </component>
@@ -569,7 +588,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27785000" />
+    <option name="totallyTimeSpent" value="29194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="464" width="1440" height="436" extended-state="0" />
@@ -596,7 +615,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27272728" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27138644" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -619,13 +638,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_4.snippet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/system/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -958,8 +970,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
