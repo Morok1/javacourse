@@ -11,6 +11,7 @@
     <modules>
         <module>generics</module>
         <module>exception</module>
+        <module>stream</module>
     </modules>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
