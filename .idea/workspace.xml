@@ -2,398 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/exception/src/main/java/javaimp/DefaultUncaughtExceptionHandlerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception/src/main/java/javaimp/FinallyNOtComplettingNormalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/model/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/model/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/model/XmlFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/GroupType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/api/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/model/LimitPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/service/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/service/Fixator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/api/IState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/impl/FinishState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/impl/ProcessStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/impl/StartState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/strategy/SortService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/strategy/api/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/strategy/impl/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/strategy/impl/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/api/Fixable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/api/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/api/Takeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/database/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/model/DiscountPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/model/GeneralPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/system/System.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/command/Reciever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/command/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/prototype/MockObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/api/Goable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/api/Unitable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/model/Ork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/model/Pegas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/model/Troll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/model/Vampir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream/src/main/resources/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stream/stream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilcode/javaimpatient/alice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/com/smagin/examples/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/exception/src/main/java/com/smagin/stream/examples/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/META-INF/services/ch04.sec04.Cipher" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/META-INF/services/ch04.sec04.Cipher" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/alice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/main/java/alice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec01/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec01/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec01/MethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec02/NumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec02/NumberDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec03/VariableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec03/VariableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec04/ArithmeticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec04/ArithmeticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec04/BigNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec04/BigNumberDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec04/RelationalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec04/RelationalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec05/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec05/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec06/InputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec06/InputDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec07/DoDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec07/DoDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec07/ForDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec07/ForDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec07/WhileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec07/WhileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec08/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec08/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec08/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec08/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec08/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec08/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec08/TwoDimensionalArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec08/TwoDimensionalArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec09/ArrayMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec09/ArrayMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec09/StaticMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec09/StaticMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch01/sec09/VarargsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec09/VarargsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec01/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec01/Cal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec01/ReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec01/ReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec02/CallByValueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec02/CallByValueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec02/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec02/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec02/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec02/EmployeeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec02/EvilManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec02/EvilManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec03/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec03/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec03/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec03/EmployeeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec04/CreditCardForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec04/CreditCardForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec04/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec04/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec04/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec04/RandomNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec04/StaticMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec04/StaticMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec05/StaticImportDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec05/StaticImportDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec06/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec06/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec06/InvoiceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec06/InvoiceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec06/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec06/Network.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch02/sec06/NetworkDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch02/sec06/NetworkDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec01/DigitSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec01/DigitSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec01/IntSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec01/IntSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec01/IntSequenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec01/IntSequenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec01/SquareSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec01/SquareSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec02/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec02/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec02/Identified.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec02/Identified.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec02/IntSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec02/IntSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec02/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec03/ButtonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec03/ButtonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec03/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec03/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec03/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec03/RunnableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec03/SortDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec03/SortDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec04/ButtonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec04/ButtonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec04/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec04/LambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec05/ConstructorReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec05/ConstructorReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec05/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec05/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec05/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec05/MethodReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec06/ImageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec06/ImageDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec06/PixelFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec06/PixelFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec06/RepeatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec06/RepeatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec07/ScopeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec07/ScopeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec08/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec08/ComparatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec08/HigherOrderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec08/HigherOrderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec08/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec08/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec09/AnonymousClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec09/AnonymousClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec09/IntSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec09/IntSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch03/sec09/LocalClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch03/sec09/LocalClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/AnonymousSubclassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/AnonymousSubclassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/ConcurrentWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/ConcurrentWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/ConcurrentWorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/ConcurrentWorkerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/InheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/InheritanceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/Named.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/Named.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/StudentDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec01/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec01/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec02/DiscountedItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec02/DiscountedItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec02/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec02/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec02/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec02/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec02/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec02/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec02/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec02/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec03/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec03/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec03/Calculator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec03/Calculator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec03/EnumDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec03/EnumDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec03/Modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec03/Modifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec03/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec03/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec03/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec03/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec04/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec04/Cipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec04/ClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec04/ClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec04/ServiceLoaderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec04/ServiceLoaderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec04/impl/AESCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec04/impl/AESCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec04/impl/AESCipherFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec04/impl/AESCipherFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec04/impl/CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec04/impl/CaesarCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec05/ArrayReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec05/ArrayReflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec05/MethodPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec05/MethodPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch04/sec05/ProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch04/sec05/ProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/DefaultUncaughtExceptionHandlerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/DefaultUncaughtExceptionHandlerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/FileFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/FileFormatException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/FinallyNotCompletingNormallyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/FinallyNotCompletingNormallyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/StackTraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/StackTraceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/ThrowDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/ThrowDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/TryFinallyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/TryFinallyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec01/TryWithResourcesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec01/TryWithResourcesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec02/AssertionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec02/AssertionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch05/sec03/LoggingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch05/sec03/LoggingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec01/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec01/Entry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec02/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec02/ArrayUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec02/ArrayUtilDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec02/ArrayUtilDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec03/Closeables.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec03/Closeables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec03/CloseablesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec03/CloseablesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec04/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec04/ArrayUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec04/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec04/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec04/Employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec04/Employees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec04/HeapPollutionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec04/HeapPollutionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec04/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec04/Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec04/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec04/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec05/WordList.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec05/WordList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec05/WordListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec05/WordListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec06/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec06/ArrayUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec06/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec06/Exceptions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch06/sec07/GenericReflectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch06/sec07/GenericReflectionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec02/ConcurrentModificationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec02/ConcurrentModificationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec02/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec02/IteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec02/ListIteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec02/ListIteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec03/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec03/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec04/LinkedHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec04/LinkedHashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec04/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec04/MapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec05/BitsetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec05/BitsetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec05/EnumSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec05/EnumSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec05/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec05/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec05/PriorityQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec05/PriorityQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec05/PropertiesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec05/PropertiesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec05/StackQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec05/StackQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch07/sec06/RangeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec06/RangeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/scratch/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/scratch/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec01/CountLongWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec01/CountLongWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec02/CreatingStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec02/CreatingStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec03/FilterMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec03/FilterMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec04/ExtractingCombining.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec04/ExtractingCombining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec05/OtherTransformations.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec05/OtherTransformations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec06/SimpleReductions.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec06/SimpleReductions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec07/OptionalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec07/OptionalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec08/CollectingResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec08/CollectingResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec09/CollectingIntoMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec09/CollectingIntoMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec10/GroupingPartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec10/GroupingPartitioning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec11/DownstreamCollectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec11/DownstreamCollectors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec12/ReductionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec12/ReductionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec13/PrimitiveTypeStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec13/PrimitiveTypeStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch08/sec14/ParallelStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec14/ParallelStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec01/BinaryIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec01/BinaryIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec01/CharsetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec01/CharsetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec01/MemoryMappedFileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec01/MemoryMappedFileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec01/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec01/StreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec01/TextIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec01/TextIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec02/DirectoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec02/DirectoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec02/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec02/FileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec02/PathDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec02/PathDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec02/ZipDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec02/ZipDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec03/HttpClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec03/HttpClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec03/PostDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec03/PostDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec04/FindingOneOrAllMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec04/FindingOneOrAllMatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec04/Flags.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec04/Flags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec04/Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec04/Groups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec04/RegexDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec04/RegexDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec04/RemovingOrReplacingMatches.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec04/RemovingOrReplacingMatches.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/LabeledPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/LabeledPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/PersonDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/PersonDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/PersonProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/PersonProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch09/sec05/SerializationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch09/sec05/SerializationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec01/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec01/CallableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec01/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec01/RunnableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec02/AsyncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec02/AsyncDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec02/WebReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec02/WebReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec03/RaceConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec03/RaceConditionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec03/VisibilityDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec03/VisibilityDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec04/ParallelAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec04/ParallelAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec05/CHMDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec05/CHMDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec06/AtomicLongDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec06/AtomicLongDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec06/LongAdderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec06/LongAdderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/CounterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/CounterDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/Flag.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/Flag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/FlagDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/FlagDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/LockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/LockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec07/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec07/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec08/InterruptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec08/InterruptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec08/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec08/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec08/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec08/ThreadLocalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch10/sec09/ReadDir.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch10/sec09/ReadDir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec01/AnnotationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec01/AnnotationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec01/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec01/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec01/ReadOnly.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec01/ReadOnly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec01/ReceiverDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec01/ReceiverDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec01/TypeUseAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec01/TypeUseAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec01/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec01/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec02/BugReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec02/BugReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec02/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec02/Reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec02/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec03/StandardAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec03/StandardAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec04/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec04/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec04/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec04/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec04/RuntimeAnnotationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec04/RuntimeAnnotationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec04/ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec04/ToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec04/ToStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec04/ToStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec05/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec05/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec05/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec05/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch11/sec05/SourceLevelAnnotationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch11/sec05/SourceLevelAnnotationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec01/Timeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec01/Timeline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec02/LocalDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec02/LocalDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec03/DateAdjusters.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec03/DateAdjusters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec04/LocalTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec04/LocalTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec05/ZonedTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec05/ZonedTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec06/Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec06/Formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch12/sec07/Legacy.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch12/sec07/Legacy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec01/Locales.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec01/Locales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec02/NumberFormats.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec02/NumberFormats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec03/Currencies.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec03/Currencies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec04/DateAndTimeFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec04/DateAndTimeFormatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec05/CollatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec05/CollatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec06/MessageFormatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec06/MessageFormatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec07/ResourceBundleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec07/ResourceBundleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec07/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec07/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec07/messages_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec07/messages_en.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec07/messages_en_US.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec07/messages_en_US.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec07/messages_fr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec07/messages_fr.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec07/messages_fr_FR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec07/messages_fr_FR.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec08/CharacterEncodings.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec08/CharacterEncodings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch13/sec09/PreferencesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch13/sec09/PreferencesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec01/ByteArrayClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec01/ByteArrayClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec01/ByteArrayClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec01/ByteArrayClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec01/CompilerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec01/CompilerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec01/StringSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec01/StringSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec02/CompileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec02/CompileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec02/ScriptEngineDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec02/ScriptEngineDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test1.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test10.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test2.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test3.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test4.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test5.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test6.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test7.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test8.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec03/test9.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec03/test9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec04/test1.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec04/test1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec04/test2.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec04/test2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch14/sec04/test3.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch14/sec04/test3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/automods/commons-csv-1.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/automods/commons-csv-1.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec03/com/horstmann/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec03/com/horstmann/hello/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec03/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec03/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec04/com/horstmann/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec04/com/horstmann/hello/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec04/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec04/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec05/com/horstmann/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec05/com/horstmann/hello/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec05/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec05/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec06/com/horstmann/places/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec06/com/horstmann/places/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec06/com/horstmann/places/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec06/com/horstmann/places/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec06/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec06/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec08/com/horstmann/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec08/com/horstmann/hello/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec08/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec08/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec08/module-info.java.orig" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec08/module-info.java.orig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec09/com/horstmann/places/CSVDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec09/com/horstmann/places/CSVDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/ch15.sec09/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec09/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greet/com/horstmann/greet/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greet/com/horstmann/greet/Greeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greet/com/horstmann/greet/internal/GreeterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greet/com/horstmann/greet/internal/GreeterImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greet/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greet/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/GreeterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/GreeterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/FrenchGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/FrenchGreeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greetsvc/com/horstmann/greetsvc/internal/GermanGreeterFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com.horstmann.greetsvc/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com.horstmann.greetsvc/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com/horstmann/places/CSVDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com/horstmann/places/CSVDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com/horstmann/places/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com/horstmann/places/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/com/horstmann/places/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/com/horstmann/places/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/ch15/countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/ch15/countries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/chart.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/chart.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/cities.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/annotations/ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/annotations/ToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/annotations/ToStringAnnotationProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/annotations/ToStringAnnotationProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/annotations/ToStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/annotations/ToStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/corejava/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/corejava/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/corejava/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/corejava/EmployeeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/employees/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/employees/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exception/src/main/java/javaimp/javaimpatient/com/horstmann/managers/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/managers/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/patterns/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/AbstractFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/DaoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/api/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/api/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/impl/DatabaseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/impl/DatabaseDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/impl/XmlDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/abstractfabric/impl/XmlDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/model/Call.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/model/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/abstractfabric/model/XmlFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/Group.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/GroupType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/userbuilder/BaseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/userbuilder/BaseBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/userbuilder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/userbuilder/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/userbuilder/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/userbuilder/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/userbuilder/SaxBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/userbuilder/SaxBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/builder/musicgroup/userbuilder/StaxBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/builder/musicgroup/userbuilder/StaxBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Fixable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Handler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/api/Takeable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/database/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Fixator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/impl/Fixator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/impl/Taker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/impl/Taker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/model/DiscountPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/model/GeneralPayment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/model/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/model/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/chainofresponsibility/system/System.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/command/CreditingCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/command/CreditingCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/command/Reciever.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/command/WithDrawingCrediting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/command/WithDrawingCrediting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/command/api/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/command/api/ICommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/command/model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/prototype/ConcretePrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/prototype/ConcretePrototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/prototype/MockObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/prototype/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/prototype/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/singleton/DoubleCheckLockingSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/singleton/DoubleCheckLockingSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/singleton/references" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/singleton/references" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/api/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Goable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/api/JumpGoable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/api/JumpGoable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Jumpable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/api/Jumpable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Unitable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/command/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Elph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smagin/stream/designpatterns/strategy/model/Elph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Ork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Pegas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Troll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Vampir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/patterns/chainofresponsibility/impl/FixatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/smagin/stream/designpatterns/chainofresponsibility/impl/FixatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/patterns/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/smagin/stream/designpatterns/singleton/SingletonTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -406,30 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Payment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/model/Payment.java">
+      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="186">
+              <caret line="855" column="7" lean-forward="true" selection-start-line="855" selection-start-column="7" selection-end-line="855" selection-end-column="7" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/Context.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
@@ -440,11 +32,27 @@
       <file leaf-file-name="CountLongWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec01/CountLongWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="128">
               <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec03/SetDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatingStreams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec02/CreatingStreams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -465,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountStream.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountStream.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -692,6 +300,36 @@
               <item name="utilcode" type="462c0819:PsiDirectoryNode" />
               <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
+              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
+              <item name="ch08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
+              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
+              <item name="ch08" type="462c0819:PsiDirectoryNode" />
+              <item name="sec01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
+              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
+              <item name="ch08" type="462c0819:PsiDirectoryNode" />
+              <item name="sec02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
+              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
+              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
+              <item name="ch11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -883,7 +521,7 @@
       <updated>1564689784536</updated>
       <workItem from="1564689787640" duration="14160000" />
       <workItem from="1564824907460" duration="12875000" />
-      <workItem from="1566118232866" duration="15458000" />
+      <workItem from="1566118232866" duration="15891000" />
     </task>
     <servers />
   </component>
@@ -920,7 +558,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42493000" />
+    <option name="totallyTimeSpent" value="42926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -947,8 +585,8 @@
       <window_info anchor="right" id="JOL" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40242425" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3151515" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23151515" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3151515" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -970,30 +608,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-128">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1026">
@@ -1342,9 +956,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="855" column="7" lean-forward="true" selection-start-line="855" selection-start-column="7" selection-end-line="855" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec01/CountLongWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="128">
           <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1352,14 +983,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java">
+    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec02/CreatingStreams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="172">
+          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec03/SetDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32" />
       </provider>
     </entry>
   </component>
