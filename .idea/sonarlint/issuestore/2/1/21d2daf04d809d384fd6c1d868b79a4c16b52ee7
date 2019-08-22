@@ -1,4 +1,0 @@
-
-ysquid:S1450"XRemove the "singleton" field and declare it as a local variable in the relevant methods.(´ÅÄÿÿÿÿÿÿ8óÍŠÅ-
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•¨ó­úÿÿÿÿ8óÍŠÅ-
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÁàÑ£úÿÿÿÿ8óÍŠÅ-

@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd72a89-b63e-41a0-bdee-944c3d74f26e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/ExtractingCombining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/StreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/horstman/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stream/src/main/resources/Stream.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/147fb2b8754c72e65aaa1d293aaa214abe08d3ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21d2daf04d809d384fd6c1d868b79a4c16b52ee7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/257ce223839e359c898ab9fa6a048d65584b7c9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dd4cdc1b7927e32e76aa4a350bed8cb5ff7f287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/325a13a5f956bc442268d0f1518a274105daea68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c6e94693f445afb33def90ac794e2dcbe205e70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d12eedb94eba28c0edeaebea1e01726fc4edf25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/465680a91f04110390b73fba4363ab0a6141b85d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b50e3f652d6aa9cb92008ff7d8e89e03574fac2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f1de1edc15ee2bb1d826ced7d2cad0757350635" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/525869aedf5999680a3a7e29d2530772d7c50fde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b26203eefd1fb4001326426dfbc3f7df3e3f4d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e6706587de98e54496af23a2d2d3abbc6bcf20f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79d7998e6c89aea2b137ddc54732f7b7f373ef61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83413345a185025299920bab68f2773486ca3179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8ad79876da2f625874bdcebcf666ccfcafc0feb9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94e33d4d9445b6a924bb8b747c1e9fd4eb77bdf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9cea88639d018ca163f5b2abd0377bc55be2ee75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6ce9b9a772ddf7759ff8576b8e65fcfafc32742" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a741b315cb4acdf907a14f6baefe90084e2ce150" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a824d6d3a08dae17183180d7cb1901573e4827e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1747e85ce1a51b32e92493dcad7815aea353f19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1c9f8013eec791bae57df71f972904a230069b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7b685757453f6f0ab9e3d29ea08a97db53e1ad5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d12087d0ac5022536ebb727e6e61ab9309f31e48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9bae0255f1defa74a4fb539715690f1c2d9dbd2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da79b9968beb9f31cd2871ce304bbcd1110ba736" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd64421f65a6eeb9694e77698d3f6b29420be452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e02257b238c829786aa7ec46a18df30a4d1660fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e984541d63f659078ee103550a4f43aee61e586a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9ce8cab7755489e59e247118ed6c9e1878d0b1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0f9b2f05cd439ab7d43f4ef4bb83900c6373109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f20067260a945c24e6a21a8e9793d4328c9863b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f23924dd9c865391d5d3f35ec58c9bbd52252a92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f61a4bbba7e410a4f2a3b82db200a52f3ac8d9b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CreationStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CreationStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec03/FilterMapDemo.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,69 +60,84 @@
       <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="855" column="7" lean-forward="true" selection-start-line="855" selection-start-column="7" selection-end-line="855" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/scratch/Test.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="CountLongWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec01/CountLongWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="14025">
+              <caret line="985" column="31" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#45237#45238#0" expanded="true" />
+                <element signature="e#45323#45324#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SetDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SetDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec03/SetDemo.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CreationStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CreationStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32" />
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtractingCombining.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec04/ExtractingCombining.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="52" column="22" selection-end-line="54" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtractingCombining.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/ExtractingCombining.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/horstman/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/StreamMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Paths.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/file/Paths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+              <folding>
+                <element signature="e#2673#2674#0" expanded="true" />
+                <element signature="e#2741#2742#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="CreatingStreams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec02/CreatingStreams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alice.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream/src/main/java/alice.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alice.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream/src/main/resources/alice.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3697" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -88,17 +145,8 @@
       <file leaf-file-name="alice.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/alice.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+            <state relative-caret-position="210">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -139,11 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/Vampir.java" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Vampir.java" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/api/JumpGoable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Flyable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Goable.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/api/Jumpable.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/model/Elph.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/strategy/Main.java" />
@@ -190,6 +233,11 @@
         <option value="$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/chainofresponsibility/Context.java" />
         <option value="$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec01/CountLongWords.java" />
         <option value="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CreationStream.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/ExtractingCombining.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/horstman/Examplre.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/horstman/Example.java" />
+        <option value="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/StreamMain.java" />
       </list>
     </option>
   </component>
@@ -226,11 +274,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-31" />
-    <option name="y" value="319" />
-    <option name="width" value="1440" />
-    <option name="height" value="616" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="30" />
+    <option name="y" value="336" />
+    <option name="width" value="1410" />
+    <option name="height" value="564" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -238,7 +286,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,53 +336,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
-              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
-              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
-              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
-              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
-              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
-              <item name="ch08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
-              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
-              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
-              <item name="ch08" type="462c0819:PsiDirectoryNode" />
-              <item name="sec01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
-              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
-              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
-              <item name="ch08" type="462c0819:PsiDirectoryNode" />
-              <item name="sec02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javacourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javacourse" type="462c0819:PsiDirectoryNode" />
-              <item name="utilcode" type="462c0819:PsiDirectoryNode" />
-              <item name="javaimpatient" type="462c0819:PsiDirectoryNode" />
-              <item name="ch11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,6 +359,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.smagin.designpatterns.state.impl" />
+      <recent name="com.smagin.designpatterns.state" />
+      <recent name="patterns.strategy.api" />
+      <recent name="patterns.command" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="patterns.chainofresponsibility.impl" />
       <recent name="singleton" />
@@ -363,24 +376,18 @@
       <recent name="patterns.create" />
       <recent name="patterns" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/utilcode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stream/src/main/resources" />
       <recent name="$PROJECT_DIR$/stream/src/main/java" />
       <recent name="$PROJECT_DIR$/stream/src/main/java/com/smagin/stream" />
-      <recent name="$PROJECT_DIR$/stream/src/main/resources" />
       <recent name="$PROJECT_DIR$/exception/src/main/java/javaimp" />
       <recent name="$PROJECT_DIR$/books" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="patterns.command.model" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.smagin.designpatterns.state.impl" />
-      <recent name="com.smagin.designpatterns.state" />
-      <recent name="patterns.strategy.api" />
-      <recent name="patterns.command" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/utilcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -395,7 +402,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountStream">
+  <component name="RunManager" selected="Application.Example">
     <configuration name="CountStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.smagin.stream.CountStream" />
       <module name="stream" />
@@ -407,13 +414,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DefaultUncaughtExceptionHandlerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaimp.DefaultUncaughtExceptionHandlerDemo" />
-      <module name="exception" />
+    <configuration name="CreationStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smagin.stream.CreationStream" />
+      <module name="stream" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaimp.*" />
+          <option name="PATTERN" value="com.smagin.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smagin.stream.horstman.Example" />
+      <module name="stream" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smagin.stream.horstman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ExtractingCombining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smagin.stream.ExtractingCombining" />
+      <module name="stream" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smagin.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,28 +454,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaimp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaimp.javaimpatient.ch01.sec01.HelloWorld" />
-      <module name="exception" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaimp.javaimpatient.ch01.sec01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smagin.designpatterns.strategy.Main" />
-      <module name="javacourse" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.smagin.designpatterns.strategy.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,19 +500,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.DefaultUncaughtExceptionHandlerDemo" />
       <item itemvalue="Application.FinallyNOtComplettingNormalDemo" />
       <item itemvalue="Application.CountStream" />
+      <item itemvalue="Application.CreationStream" />
+      <item itemvalue="Application.ExtractingCombining" />
+      <item itemvalue="Application.Example" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.ExtractingCombining" />
+        <item itemvalue="Application.CreationStream" />
         <item itemvalue="Application.CountStream" />
         <item itemvalue="Application.FinallyNOtComplettingNormalDemo" />
-        <item itemvalue="Application.DefaultUncaughtExceptionHandlerDemo" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -521,7 +528,9 @@
       <updated>1564689784536</updated>
       <workItem from="1564689787640" duration="14160000" />
       <workItem from="1564824907460" duration="12875000" />
-      <workItem from="1566118232866" duration="15891000" />
+      <workItem from="1566118232866" duration="16702000" />
+      <workItem from="1566229233777" duration="2069000" />
+      <workItem from="1566499959980" duration="1256000" />
     </task>
     <servers />
   </component>
@@ -558,10 +567,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42926000" />
+    <option name="totallyTimeSpent" value="47062000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
@@ -579,26 +588,26 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.20727272" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="JOL" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23151515" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3151515" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49481866" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3151515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21745351" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.20727272" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32848486" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,59 +616,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1026">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
-          <folding>
-            <element signature="e#7284#7285#0" expanded="true" />
-            <element signature="e#7312#7313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generics/src/main/java/exercises/Task12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exception/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/com/horstmann/corejava/Employee.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec01/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch15/ch15.sec05/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch01/sec02/NumberDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -681,9 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,9 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/pom.xml" />
     <entry file="file://$PROJECT_DIR$/exception/src/main/java/javaimp/FinallyNOtComplettingNormalDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -731,10 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -742,11 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,28 +702,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/state/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/state/Grant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/state/State.java" />
+    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/state/Grant.java" />
     <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/strategy/SortService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,24 +743,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/state/model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/state/model.java" />
     <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/state/model/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -843,11 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,13 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/chainofresponsibility/serivce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/designpatterns/chainofresponsibility/serivce.java" />
     <entry file="file://$PROJECT_DIR$/patterns/src/main/java/com/smagin/stream/designpatterns/chainofresponsibility/api/Handler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -876,13 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -890,13 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,9 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -938,16 +825,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stream/src/main/resources/alice.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3697" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/alice.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/stream/src/main/java/alice.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -958,7 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CountStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="195">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -966,33 +844,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="855" column="7" lean-forward="true" selection-start-line="855" selection-start-column="7" selection-end-line="855" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec01/CountLongWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec03/SetDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec03/FilterMapDemo.java" />
     <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec02/CreatingStreams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        <state relative-caret-position="450">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch07/sec03/SetDemo.java">
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/CreationStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilcode/javaimpatient/ch08/sec04/ExtractingCombining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" column="22" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14025">
+          <caret line="985" column="31" selection-start-line="985" selection-start-column="31" selection-end-line="985" selection-end-column="31" />
+          <folding>
+            <element signature="e#45237#45238#0" expanded="true" />
+            <element signature="e#45323#45324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/ExtractingCombining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+          <folding>
+            <element signature="e#2673#2674#0" expanded="true" />
+            <element signature="e#2741#2742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/alice.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/horstman/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream/src/main/java/com/smagin/stream/StreamMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
       </provider>
     </entry>
   </component>
